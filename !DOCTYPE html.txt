@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Back Wellness Review</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px 20px;
+            background-color: #f4f7f6;
+            color: #333;
+            margin: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 24pt;
+            margin-bottom: 10px;
+        }
+        p {
+            color: #555;
+            font-size: 13pt;
+            line-height: 1.5;
+            margin-bottom: 30px;
+        }
+        .btn {
+            display: inline-block;
+            padding: 16px 32px;
+            background-color: #27ae60;
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 14pt;
+            border-radius: 5px;
+            transition: background-color 0.2s;
+        }
+        .btn:hover {
+            background-color: #219653;
+        }
+        .footer {
+            margin-top: 40px;
+            font-size: 10pt;
+            color: #999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Back Wellness Review</h1>
+        <p>Discover top-tier resources, expert insights, and guided solutions dedicated to improving your back health and restoring your daily comfort.</p>
+        <a href="https://f3436vl5uihahsb1n61ix3zpcz.hop.clickbank.net" class="btn">Access Official Website</a>
+        <div class="footer">
+            <p>&copy; 2026 Back Wellness Review. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
